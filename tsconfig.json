@@ -16,7 +16,7 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "types": [ "node", "playwright", "@level-ci/a11y-playwright"]
+    "types": [ "node", "playwright", "@level-ci/a11y-playwright", "@level-ci/a11y-playwright-test"]
   },
   "include": ["src", "playwright"]
 }
